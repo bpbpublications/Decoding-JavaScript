@@ -1,0 +1,21 @@
+.recipe-detail-container {
+    
+}
+
+.recipe-title {
+    font-size: 32px;
+}
+
+.details {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
+
+.section-title {
+    font-size: 18px;
+}
+
+.recipe {
+    overflow-y: auto;
+}

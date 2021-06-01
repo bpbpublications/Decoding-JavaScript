@@ -1,0 +1,1 @@
+const price = settings.price || 100;

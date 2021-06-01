@@ -1,0 +1,1 @@
+let pattern = new RegExp('abc');

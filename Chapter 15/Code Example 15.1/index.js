@@ -1,0 +1,1 @@
+// const getName = (name, age,) => {...};
